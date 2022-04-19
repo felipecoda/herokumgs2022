@@ -1,4 +1,5 @@
 import AbstractView from "./AbstractView.js";
+import './styles/main.css'
 
 export default class extends AbstractView {
     constructor(params) {
