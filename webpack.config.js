@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 module.exports = {
     mode: 'development',
     entry: {
-        dabundle: path.resolve(__dirname, 'src/index.js'),
+        dabundle: path.resolve(__dirname, 'src/index.mjs'),
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
