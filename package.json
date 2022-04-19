@@ -2,7 +2,7 @@
   "name": "herokumgs2022",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve"
