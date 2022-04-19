@@ -1,6 +1,6 @@
 import AbstractView from "./AbstractView.js";
 import attendeesData from "../data/attendeesData.js"
-import './styles/main.css'
+import '../styles/main.css'
 
 export default class extends AbstractView {
     constructor(params) {
